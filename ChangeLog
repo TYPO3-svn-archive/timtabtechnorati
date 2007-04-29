@@ -1,0 +1,11 @@
+07-03-07 Michael Feinbier  <typo3@feinbier.net>
+
+	* Initial release
+
+15-04-07 Michael Feinbier	<typo3@feinbier.net>
+	* Small Bugfix
+	* xml_rpc is not needed any more
+	
+21-04-07 Michael Feinbier	<typo3@feinbier.net>
+	* Fixed a problem with TIMTAB 0.5.11 (thanks to Pascal) 
+	* Addes Manual

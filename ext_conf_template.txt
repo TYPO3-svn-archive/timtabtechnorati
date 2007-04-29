@@ -1,0 +1,2 @@
+# cat=basic/enable/10; type=boolean; label= Use "keyword" field from tt_news: Uses the existing "keyword" field from the tt_news record instead of own tag field
+useKeyword = 0
